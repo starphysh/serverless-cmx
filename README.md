@@ -1,4 +1,4 @@
-# Serverless CMX
+# Dockerised CMX
 
 _Know when your customer arrives in store. Uses the Meraki Scanning API to trigger an event-driven serverless application to detect customer arrival and notify store associates._
 
